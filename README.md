@@ -1,3 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vedanusaar Seabuckthorn Vinegar</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <header>
+    <h1>Vedanusaar Seabuckthorn Vinegar</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#benefits">Benefits</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <section id="about">
+    <h2>About</h2>
+    <p>Seabuckthorn vinegar is a uniquely refreshing and healthy drink with numerous benefits. Vedanusaar brings you organically crafted seabuckthorn vinegar for your wellness journey.</p>
+    <img src="seabuckthorn.jpg" alt="Seabuckthorn Vinegar Bottle" width="300"/>
+  </section>
+  <section id="benefits">
+    <h2>Benefits</h2>
+    <ul>
+      <li>Rich in antioxidants and vitamins</li>
+      <li>Supports digestion and immunity</li>
+      <li>Natural and organic production</li>
+    </ul>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <form id="contact-form">
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea placeholder="Message" required></textarea>
+      <button type="submit">Send</button>
+      <div id="form-message"></div>
+    </form>
+  </section>
+  <footer>
+    © 2026 Vedanusaar
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
 # Vedanusaar-website
 Vedanusaar my brand name and seabuckthorn is my product cost 550 rs
 <!DOCTYPE html>
